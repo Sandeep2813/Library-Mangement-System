@@ -1,0 +1,36 @@
+.bookList{
+    background-color: rgb(235, 219, 219);
+   padding: 1px;
+}
+.book{
+   display: flex;
+   background-color: rgb(253, 252, 252);
+   width: 900px;
+   margin:20px auto;
+   padding: 30px;
+   
+ 
+}
+.book_img{
+   width: 30%;
+}
+.book_img img{
+    padding: 20px ;
+  
+}
+.book_info{
+    text-align: start;
+    width: 70%;
+    
+} 
+.book_info  button{
+    padding: 10px 30px;
+    background-color: white;
+    color:blue;
+    border-radius: 10px;
+
+}
+.write {
+    margin-right: 10px;
+}
+

@@ -1,0 +1,49 @@
+.form{
+    background-color: rgb(221, 212, 212);
+    width: 500px;
+    height: 370px;
+    margin: auto;  
+    border-radius: 5px; 
+    padding-top: 10px;
+    
+}
+.form h1{
+   font-size: 270px;
+   margin-top: 20px;
+}
+
+.email{
+   padding: 30px 20px; 
+}
+.email input{
+    padding: 10px 90px;
+    /* border: none; */
+    border-top: 1px solid black;
+    text-align: center;
+}
+.password{
+   padding-bottom: 30px; 
+}
+.password input{
+    padding: 10px 90px;
+    /* border: none; */
+    text-align: center;
+    /* border: none; */
+    border-top: 1px solid black;
+    
+}
+.userLogin{
+    padding: 200px; 
+    background-image: url('https://www.ionos.com/digitalguide/fileadmin/_processed_/d/0/csm_archivierung-t_668f92cec2.jpg');  
+    height: 100vh;
+    background-size: cover;  
+    /* background-color: palegreen; */
+}
+.form button{
+    padding: 10px 30px;
+    margin: 10px 100px;
+    background-color: rgb(0, 112, 0);
+    color: black;
+    border: 0px;
+    font-size: 15px;
+}

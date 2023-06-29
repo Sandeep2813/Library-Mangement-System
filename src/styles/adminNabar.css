@@ -1,0 +1,28 @@
+.adminNavbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(13, 13, 190);
+}
+
+.links li{
+    display: inline-block;
+    padding-right: 10px;
+    align-items: center;
+    text-shadow: 15px 15px 15px black;
+    margin-right: 20px;
+}
+.links a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.portal h1{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    text-shadow: 15px 15px 15px black;
+}
+.links a:hover{
+    color: orange;
+}

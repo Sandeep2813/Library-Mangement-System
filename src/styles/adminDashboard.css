@@ -1,0 +1,66 @@
+.admin_image{
+  background-image: url('https://www.greenwichlibrary.org/wp-content/uploads/2016/02/Pattern-BG-EXPLORE.png');
+width: 60%;
+height: 200px;
+margin: auto;
+padding-top: 100px;
+}
+.admin{
+    background-color: white;
+    width: 60%;
+    height: 320px;
+    margin: auto ;
+    box-shadow: 2px 2px 2px 2px rgb(216, 216, 216);
+   border: 5px solid white;
+  
+}
+.admin h2{
+  color: rgb(75, 75, 75);
+   font-size: 26px;
+    padding:0px 20px;
+    text-decoration: underline skyblue;
+}
+.admin p{
+    text-align: start;
+    padding: 0px 35px;
+    font-size: 18px;
+}
+.admin a{
+    margin-right: 330px;
+    color: orangered;
+}
+.lib{
+    background-image: url('https://www.greenwichlibrary.org/wp-content/uploads/2016/02/Pattern-BG-EXPLORE.png');
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    padding-top: 100px;
+   
+
+}
+.lib_img{
+    background-color: white;
+    width: 60%;
+    height: 300px;
+    margin: auto ;
+    box-shadow: 2px 2px 2px 2px rgb(216, 216, 216);
+    border: 5px solid white;
+    
+}
+.lib_img h2{
+    color: rgb(75, 75, 75);
+    font-size: 26px;
+    padding:0px 20px;
+    text-decoration: underline skyblue;
+}
+.lib_img p{
+    text-align: start;
+    padding: 0px 35px;
+    font-size: 20px;
+}
+.lib_img a{
+    margin-right: 330px;
+    color: orangered;
+   
+    
+}

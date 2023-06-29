@@ -1,0 +1,17 @@
+.user{
+    display: inline-block;
+    padding: 30px;
+   border: 3px solid black;
+   background-color: rgb(245, 225, 225);
+    margin: 10px;
+    width:300px;
+   
+    
+}
+.user button{
+    padding: 10px 30px;
+    font-size: 15px;
+    color: black;
+    background-color: green;
+    border-radius: 10px;
+}

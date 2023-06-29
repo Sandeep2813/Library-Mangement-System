@@ -1,0 +1,57 @@
+.addbook{
+    background-color: rgb(255, 255, 255);
+    padding: 1px;
+}
+.addbook h1{
+    color: rgb(0, 0, 0);
+
+}
+.forms{
+    padding: 20px;
+    text-align: start;
+    background-color: white;
+    width: 470px;
+    margin: auto;
+    border: 3px solid black;
+    box-shadow: 5px  5px 5px black;  
+}
+.title{
+    padding: 10px;
+}
+.authors{
+    padding: 10px;
+   
+}
+.categories{
+    padding: 10px;
+}
+.pagecount{
+    padding: 10px 10px 20px;
+}
+input{
+    padding: 8px 130px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: 2px solid black;
+   color: black;
+   box-shadow: 2px 2px 2px black;
+   
+}
+textarea{
+    padding: 40px 70px;
+    margin: 10px;
+    font-size: 17px;
+    color: black;
+}
+.thumbnailUrl{
+    padding: 10px;
+}
+.btn1 button{
+    padding: 10px 20px;  
+    color: black;
+    background: green;  
+}
+.btn1{
+    margin: 5px 160px;
+}
